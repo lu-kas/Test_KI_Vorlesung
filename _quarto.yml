@@ -32,20 +32,18 @@ website:
     pinned: true
     contents:
       - index.qmd
-      - section: "Einheiten"
-        contents:
-          - text: "01 – Einführung"
-            href: notebooks/01-einleitung.ipynb
-          - text: "02 – Grundlagen"
-            href: notebooks/02-grundlagen.ipynb
-          - text: "03 – Methoden"
-            href: notebooks/03-methoden.ipynb
-          - text: "04 – Anwendungen"
-            href: notebooks/04-anwendungen.ipynb
-          - text: "05 – Fallstudie"
-            href: notebooks/05-fallstudie.ipynb
-          - text: "06 – Zusammenfassung"
-            href: notebooks/06-zusammenfassung.ipynb
+      - text: "01 – Einführung"
+        href: notebooks/01-einleitung.ipynb
+      - text: "02 – Grundlagen"
+        href: notebooks/02-grundlagen.ipynb
+      - text: "03 – Methoden"
+        href: notebooks/03-methoden.ipynb
+      - text: "04 – Anwendungen"
+        href: notebooks/04-anwendungen.ipynb
+      - text: "05 – Fallstudie"
+        href: notebooks/05-fallstudie.ipynb
+      - text: "06 – Zusammenfassung"
+        href: notebooks/06-zusammenfassung.ipynb
 
 format:
   html:
