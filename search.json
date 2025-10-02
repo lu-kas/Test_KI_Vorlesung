@@ -1,26 +1,14 @@
 [
   {
-    "objectID": "notebooks/05-fallstudie.html",
-    "href": "notebooks/05-fallstudie.html",
-    "title": "05-fallstudie",
+    "objectID": "notebooks/04-anwendungen.html",
+    "href": "notebooks/04-anwendungen.html",
+    "title": "04-anwendungen",
     "section": "",
     "text": "Platzhalter-Notebook für die Einheit.",
     "crumbs": [
       "Start",
       "Einheiten",
-      "05 – Fallstudie"
-    ]
-  },
-  {
-    "objectID": "notebooks/02-grundlagen.html",
-    "href": "notebooks/02-grundlagen.html",
-    "title": "02-grundlagen",
-    "section": "",
-    "text": "Platzhalter-Notebook für die Einheit.",
-    "crumbs": [
-      "Start",
-      "Einheiten",
-      "02 – Grundlagen"
+      "04 – Anwendungen"
     ]
   },
   {
@@ -34,6 +22,25 @@
       "Einheiten",
       "01 – Einführung"
     ]
+  },
+  {
+    "objectID": "notebooks/03-methoden.html",
+    "href": "notebooks/03-methoden.html",
+    "title": "03-methoden",
+    "section": "",
+    "text": "Platzhalter-Notebook für die Einheit.",
+    "crumbs": [
+      "Start",
+      "Einheiten",
+      "03 – Methoden"
+    ]
+  },
+  {
+    "objectID": "includes/callout-tip.html",
+    "href": "includes/callout-tip.html",
+    "title": "Vorlesung KI @ BauIng",
+    "section": "",
+    "text": "Tip\n\n\n\nDies ist ein Tipp-Block, den du wiederverwenden kannst."
   },
   {
     "objectID": "index.html",
@@ -69,34 +76,27 @@
     ]
   },
   {
-    "objectID": "includes/callout-tip.html",
-    "href": "includes/callout-tip.html",
-    "title": "Vorlesung KI @ BauIng",
-    "section": "",
-    "text": "Tip\n\n\n\nDies ist ein Tipp-Block, den du wiederverwenden kannst."
-  },
-  {
-    "objectID": "notebooks/04-anwendungen.html",
-    "href": "notebooks/04-anwendungen.html",
-    "title": "04-anwendungen",
+    "objectID": "notebooks/02-grundlagen.html",
+    "href": "notebooks/02-grundlagen.html",
+    "title": "02-grundlagen",
     "section": "",
     "text": "Platzhalter-Notebook für die Einheit.",
     "crumbs": [
       "Start",
       "Einheiten",
-      "04 – Anwendungen"
+      "02 – Grundlagen"
     ]
   },
   {
-    "objectID": "notebooks/03-methoden.html",
-    "href": "notebooks/03-methoden.html",
-    "title": "03-methoden",
+    "objectID": "notebooks/05-fallstudie.html",
+    "href": "notebooks/05-fallstudie.html",
+    "title": "05-fallstudie",
     "section": "",
     "text": "Platzhalter-Notebook für die Einheit.",
     "crumbs": [
       "Start",
       "Einheiten",
-      "03 – Methoden"
+      "05 – Fallstudie"
     ]
   },
   {
