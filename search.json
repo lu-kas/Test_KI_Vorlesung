@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "notebooks/05-fallstudie.html",
+    "href": "notebooks/05-fallstudie.html",
+    "title": "05-fallstudie",
+    "section": "",
+    "text": "Platzhalter-Notebook für die Einheit.",
+    "crumbs": [
+      "Start",
+      "Einheiten",
+      "05 – Fallstudie"
+    ]
+  },
+  {
+    "objectID": "notebooks/02-grundlagen.html",
+    "href": "notebooks/02-grundlagen.html",
+    "title": "02-grundlagen",
+    "section": "",
+    "text": "Platzhalter-Notebook für die Einheit.",
+    "crumbs": [
+      "Start",
+      "Einheiten",
+      "02 – Grundlagen"
+    ]
+  },
+  {
+    "objectID": "notebooks/01-einleitung.html",
+    "href": "notebooks/01-einleitung.html",
+    "title": "01-einleitung",
+    "section": "",
+    "text": "Platzhalter-Notebook für die Einheit.",
+    "crumbs": [
+      "Start",
+      "Einheiten",
+      "01 – Einführung"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vorlesung KI @ BauIng",
+    "section": "",
+    "text": "Diese Website bündelt die Inhalte der Vorlesung in 6 Einheiten. Jede Einheit ist als Jupyter-Notebook eingebunden.\n\n\n\n\n\n\nTip\n\n\n\nNutze die Suche in der linken Sidebar, um schnell zu Themen zu springen.\n\n\n\n\n\nInteraktive Codeblöcke aus den Notebooks\nAbbildungen und Tabellen mit automatischer Nummerierung\nLiteraturverwaltung über references.bib\n\n\n\n\n\nEinführung\n\nGrundlagen\n\nMethoden\n\nAnwendungen\n\nFallstudie\n\nZusammenfassung",
+    "crumbs": [
+      "Start",
+      "Vorlesung KI @ BauIng"
+    ]
+  },
+  {
+    "objectID": "index.html#aufbau",
+    "href": "index.html#aufbau",
+    "title": "Vorlesung KI @ BauIng",
+    "section": "",
+    "text": "Interaktive Codeblöcke aus den Notebooks\nAbbildungen und Tabellen mit automatischer Nummerierung\nLiteraturverwaltung über references.bib",
+    "crumbs": [
+      "Start",
+      "Vorlesung KI @ BauIng"
+    ]
+  },
+  {
+    "objectID": "index.html#einheiten",
+    "href": "index.html#einheiten",
+    "title": "Vorlesung KI @ BauIng",
+    "section": "",
+    "text": "Einführung\n\nGrundlagen\n\nMethoden\n\nAnwendungen\n\nFallstudie\n\nZusammenfassung",
+    "crumbs": [
+      "Start",
+      "Vorlesung KI @ BauIng"
+    ]
+  },
+  {
+    "objectID": "includes/callout-tip.html",
+    "href": "includes/callout-tip.html",
+    "title": "Vorlesung KI @ BauIng",
+    "section": "",
+    "text": "Tip\n\n\n\nDies ist ein Tipp-Block, den du wiederverwenden kannst."
+  },
+  {
+    "objectID": "notebooks/04-anwendungen.html",
+    "href": "notebooks/04-anwendungen.html",
+    "title": "04-anwendungen",
+    "section": "",
+    "text": "Platzhalter-Notebook für die Einheit.",
+    "crumbs": [
+      "Start",
+      "Einheiten",
+      "04 – Anwendungen"
+    ]
+  },
+  {
+    "objectID": "notebooks/03-methoden.html",
+    "href": "notebooks/03-methoden.html",
+    "title": "03-methoden",
+    "section": "",
+    "text": "Platzhalter-Notebook für die Einheit.",
+    "crumbs": [
+      "Start",
+      "Einheiten",
+      "03 – Methoden"
+    ]
+  },
+  {
+    "objectID": "notebooks/06-zusammenfassung.html",
+    "href": "notebooks/06-zusammenfassung.html",
+    "title": "06-zusammenfassung",
+    "section": "",
+    "text": "Platzhalter-Notebook für die Einheit.",
+    "crumbs": [
+      "Start",
+      "Einheiten",
+      "06 – Zusammenfassung"
+    ]
+  }
+]
