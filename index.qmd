@@ -1,0 +1,25 @@
+---
+title: "Vorlesung KI @ BauIng"
+page-layout: article
+---
+
+# Willkommen
+
+Diese Website bündelt die Inhalte der Vorlesung in **6 Einheiten**. Jede Einheit ist als Jupyter-Notebook eingebunden.
+
+::: callout-tip
+Nutze die Suche in der linken Sidebar, um schnell zu Themen zu springen.
+:::
+
+## Aufbau
+- Interaktive Codeblöcke aus den Notebooks
+- Abbildungen und Tabellen mit automatischer Nummerierung
+- Literaturverwaltung über `references.bib`
+
+## Einheiten
+1. [Einführung](notebooks/01-einleitung.ipynb)  
+2. [Grundlagen](notebooks/02-grundlagen.ipynb)  
+3. [Methoden](notebooks/03-methoden.ipynb)  
+4. [Anwendungen](notebooks/04-anwendungen.ipynb)  
+5. [Fallstudie](notebooks/05-fallstudie.ipynb)  
+6. [Zusammenfassung](notebooks/06-zusammenfassung.ipynb)
