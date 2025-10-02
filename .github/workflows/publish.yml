@@ -37,7 +37,8 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: "latest"
+          #version: "latest"
+          version: "1.7.34"
 
       # Optional: Node für Widgets etc.
       - name: Setup Node (optional)
