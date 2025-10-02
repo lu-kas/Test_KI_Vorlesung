@@ -2,6 +2,8 @@ project:
   type: website
   output-dir: _site
 
+site-url: https://lu-kas.github.io/Test_KI_Vorlesung/
+
 website:
   title: "Vorlesung KI @ BauIng"
   description: "6-teilige Vorlesungsreihe als Quarto Website"
