@@ -60,7 +60,7 @@ format:
     tbl-cap-location: top
 
 execute:
-  freeze: auto
+  freeze: true
   echo: true
   warning: false
   message: false
